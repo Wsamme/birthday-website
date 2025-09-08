@@ -80,17 +80,20 @@ text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
     padding: 60px;
     background-color: aliceblue;
     
+    
 
 }
 
 #guide-container{
     display: flex;
+    width: 600px;
     height: 300px;
     text-align: center;
     justify-self: center;
     border: 3px solid lightblue;
     padding: 10px;
     background-color: rgb(191, 205, 205);
+    margin: 0 auto;
 }
 #guide-info{
     width: 300px;
